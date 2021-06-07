@@ -3,6 +3,7 @@
 ## Repository content/structure
 
 - `term_paper.pdf`: 2021 Schmitten, Angara Smooth Sailing? A Finite Gaussian Mixture Factor Model of What Makes Safe Haven Currencies.pdf
+- `presentation.pdf`: 2021 Schmitten, Angara Smooth Sailing? A Finite Gaussian Mixture Factor Model of What Makes Safe Haven Currencies Presentation.pdf
 - `code/`: 2021 Schmitten, Angara Data Cleaning.R
 - `code/`: 2021 Schmitten, Angara Data Visualisation and Modelling.R
 
