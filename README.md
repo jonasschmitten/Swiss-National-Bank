@@ -14,5 +14,5 @@ The paper was written for the Head of Foreign Exchange and Gold at the Swiss Nat
 
 
 ## About the collected data
-The data for this project was collected from Bloomberg, Eikon, and the Fed- eral Reserve Bank of St. Louis.
+The data for this project was collected from Bloomberg, Eikon, and the Federal Reserve Bank of St. Louis.
 
